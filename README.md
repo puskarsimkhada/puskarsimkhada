@@ -26,9 +26,9 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=c,html,css,js,react,github,git,vscode,visualstudio,figma,)](https://skillicons.dev)
 
-### ![Sandedsh Gadal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandesh-Gadal&show_icons=true&theme=dark)
+ ![Puskar Simkhada's GitHub stats](https://github-readme-stats.vercel.app/api?username=puskarsimkhada&show_icons=true&theme=dark)
 
-### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandesh-Gadal&theme=dark&count=8)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puskarsimkhada&theme=dark&count=8)
 
 
 <br>
