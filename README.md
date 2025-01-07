@@ -1,7 +1,6 @@
  <h1 align="center">Hi 👋, I'm Puskar Simkhada</h1>
 
-- 🔭 I’m currently working on Web dev 
-- 🌱 I’m currently learning Frontend
+- 🌟 Frontend Developer | Passionate about creating responsive and user-friendly web applications.
 - 💬 Ask me anything about HTML,CSS,JS,ReactJs 
 - 📫 How to reach me: puskarsimkhada22@gmail.com
 - 😄 My website: [(https://puskarsimkhada.com.np/)
