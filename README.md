@@ -5,6 +5,7 @@
 - 📫 How to reach me: puskarsimkhada22@gmail.com
 - 🌐 My website: [(https://puskarsimkhada.com.np/)
 - ⚡ Fun fact: Ctrl+Z: every coder’s savior.
+- If it works, don’t touch it.
   
 ### Connect with me:
 <div id="badges">
