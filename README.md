@@ -20,7 +20,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,github,gitlab,tailwind,bootstrap,git,vscode,visualstudio,figma,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,java,github,gitlab,tailwind,bootstrap,git,vscode,visualstudio,figma,)](https://skillicons.dev)
 
  ![Puskar Simkhada's GitHub stats](https://github-readme-stats.vercel.app/api?username=puskarsimkhada&show_icons=true&theme=dark)
 
