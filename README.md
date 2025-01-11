@@ -4,7 +4,7 @@
 - 💬 Ask me anything about HTML,CSS,JS,React
 - 📫 How to reach me: puskarsimkhada22@gmail.com
 - 🌐 My website: [(https://puskarsimkhada.com.np/)
-- ⚡ Fun fact: Hakuna Matata
+- ⚡ Fun fact: Ctrl+Z: every coder’s savior.
   
 ### Connect with me:
 <div id="badges">
@@ -17,8 +17,6 @@
 <a href="https://x.com/PuskarSimk41013">
   <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
 </a>
-
-  
 </div>
 
 ### Languages and Tools:
@@ -27,7 +25,5 @@
  ![Puskar Simkhada's GitHub stats](https://github-readme-stats.vercel.app/api?username=puskarsimkhada&show_icons=true&theme=dark)
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puskarsimkhada&theme=dark&count=8)
-
-
 <br>
 
