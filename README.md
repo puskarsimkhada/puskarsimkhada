@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Puskar Simkhada</h1>
 
 - 🌟 Frontend Developer | Passionate about creating responsive and user-friendly web applications.
-- 💬 Ask me anything about HTML,CSS,JS,React
+- 💬 Ask me anything about HTML,CSS,JS,React,Github
 - 📫 How to reach me: puskarsimkhada22@gmail.com
 - 🌐 My website: [(https://puskarsimkhada.com.np/)
 - ⚡ Fun fact: Ctrl+Z: every coder’s savior.
