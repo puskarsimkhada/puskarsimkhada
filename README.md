@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Puskar Simkhada</h1>
+ <h1 align="center">Hi, I'm Puskar Simkhada</h1>
 
 - 🌟 Frontend Developer | Passionate about creating responsive and user-friendly web applications.
 - 💬 Ask me anything about HTML,CSS,JS,React,Github
