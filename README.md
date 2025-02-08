@@ -22,8 +22,8 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=react,html,css,js,java,github,postman,laravel,php,gitlab,tailwind,bootstrap,git,vscode,visualstudio,figma,)](https://skillicons.dev)
 
- ![Puskar Simkhada's GitHub stats](https://github-readme-stats.vercel.app/api?username=puskarsimkhada&show_icons=true&theme=dark)
+ ![Puskar Simkhada's GitHub stats](https://github-readme-stats.vercel.app/api?username=puskarsimkhada&show_icons=true&theme=cobalt)
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puskarsimkhada&theme=dark&count=8)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puskarsimkhada&theme=cobalt&count=8)
 <br>
 
