@@ -19,9 +19,6 @@
 </a>
 </div>
 
-### Portfolio
-  - Website: https://puskarsimkhada.com.np/
-
 ### My Projects
     - 
 
