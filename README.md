@@ -19,9 +19,6 @@
 </a>
 </div>
 
-### My Projects
-    - 
-
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=react,html,css,js,java,github,postman,laravel,php,gitlab,tailwind,bootstrap,git,vscode,visualstudio,figma,eclipse)](https://skillicons.dev)
 
